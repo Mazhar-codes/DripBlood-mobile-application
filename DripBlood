@@ -1,0 +1,16 @@
+DripBlood/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/dripblood/
+│   │   │   │   ├── activities/        # Activities (Login, Dashboard, Map, Admin, etc.)
+│   │   │   │   ├── fragments/         # Fragments (Home, Requests, Achievements, etc.)
+│   │   │   │   └── widgets/           # SOS app widget
+│   │   │   └── res/                   # Layouts, drawables, menus, values
+│   │   └── androidTest/ test/         # Tests
+│   └── build.gradle                   # Module Gradle config
+│
+├── .gitignore
+├── build.gradle                        # Project Gradle config
+└── README.md                           # This file
