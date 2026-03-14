@@ -1,10 +1,8 @@
 # DripBlood-mobile-application
 An Android app that connects blood donors with people in urgent need, shows nearby blood points/hospitals, and provides community and SOS features to support life‑saving donations.
 
-Overview
-Below is a ready‑to‑paste README.md for your DripBlood Android app, styled similarly to the hospital receptionist repo you linked, with emojis, sections, and professional structure.
 
-You can copy this into a README.md at the root of your GitHub repo and then tweak wording/screenshots later.
+
 
 # 🩸 DripBlood – Blood Donation & Emergency Helper
 An Android app that connects blood donors with people in urgent need, shows nearby blood points/hospitals, and provides community and SOS features to support life‑saving donations.
